@@ -32,7 +32,7 @@ Read the [contributing guidelines](https://developers.blockmatic.io) for details
 
 ## Blockmatic
 
-Blockmatic is building robust ecosystem of people and tools for development of decentralized applications.
+Blockmatic is building robust ecosystem of people and tools for development of blockchain applications.
 
 [blockmatic.io](https://blockmatic.io)
 
