@@ -22,7 +22,7 @@ See [THEIR_README.md](./THEIR_README.md)
 
 ## TELOS DreamStack
 
-This repository is part of the TELOS DreamStack Project which provides set of guidelines, tools and starters to speed up dApp development following best practices for security, performance and maintainability of your application.
+The TELOS DreamStack Project which provides set of guidelines, tools and starters to speed up dApp development following best practices for security, performance and maintainability of your application.
 
 The code style convention aims to maximize reusability and facilitate collaboration. We have chosen the stack carefully so that it allows us to write robust and performant applications with more concise and readable code.
 
@@ -32,7 +32,7 @@ Read the [contributing guidelines](https://developers.blockmatic.io) for details
 
 ## Blockmatic
 
-Blockmatic is building robust ecosystem of people and tools for development of blockchain applications.
+Blockmatic is building a robust ecosystem of people and tools for the development of blockchain applications.
 
 [blockmatic.io](https://blockmatic.io)
 
