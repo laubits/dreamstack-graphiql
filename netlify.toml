@@ -1,4 +1,4 @@
 [build]
   base = "./"
   publish = "static"
-  command = "npm run build && ls static"
+  command = "npm run build"
